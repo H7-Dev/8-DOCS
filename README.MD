@@ -1,5 +1,5 @@
 **00.00 - Estrutura Básico -v1.0.0**
-# Essa estrutura de pastas pertecen ao projeto web Mercado-Virtual. Aqui está uma descrição geral da estrutura:
+# Essa estrutura de pastas pertecen ao projeto web Flash card bars. Aqui está uma descrição geral da estrutura:
 
 - CONTROLLER: Esta pasta contém os arquivos do controlador, responsáveis por manipular as requisições e gerenciar a lógica de negócios.
 - LIB: Essa pasta contém várias subpastas relacionadas às bibliotecas utilizadas no projeto.
